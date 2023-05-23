@@ -1,0 +1,33 @@
+body {background-color: green;}
+
+button{
+    background-color: rgba(84, 163, 241, 0.904);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    color: aliceblue;
+    font-size: x-large;
+    border-radius: 10%;
+}
+#card-images {
+display: flex;
+justify-content: center;
+align-content: center;
+}
+#submit{
+    visibility: hidden; 
+}
+
+h2 {
+display: flex;
+align-items: center;
+justify-content: center; }
+
+table {
+display: flex;
+color: white;
+text-align: left;
+align-items: center;
+justify-content: center;
+border-collapse: separate;
+border-spacing: 50px 0;}
+
